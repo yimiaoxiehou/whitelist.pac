@@ -1,4 +1,4 @@
-var wall_proxy = "SOCKS5 home.yimiao.online:7893;";
+var wall_proxy = "SOCKS5 home.yimiao.online:7891;";
 var nowall_proxy = "DIRECT;";
 var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
